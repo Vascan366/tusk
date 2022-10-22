@@ -10,5 +10,8 @@ Burger
 Chicken Biryani Jumbo pack
 Mutton Biryani Jumbo pack
 
+Venila ice cream
+Butter Scotch ice cream
+
 --------------------------------
 Address
